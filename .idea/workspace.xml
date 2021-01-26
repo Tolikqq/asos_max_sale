@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wsgi.py" afterDir="false" />
+    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="r3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,28 @@
       <option name="presentableId" value="Default" />
       <updated>1611336074132</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor for heroku">
+      <created>1611678272108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611678272108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="r2">
+      <created>1611678371547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611678371547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="r3">
+      <created>1611678535934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611678535934</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +99,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor for heroku" />
+    <MESSAGE value="r2" />
+    <MESSAGE value="r3" />
+    <option name="LAST_COMMIT_MESSAGE" value="r3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1508" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611676538059">
@@ -92,5 +119,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1692" y="139" width="1461" height="770" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611676540151" />
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611678537594">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611678537594" />
   </component>
 </project>
