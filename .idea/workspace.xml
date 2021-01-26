@@ -19,13 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="2">
+    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="new file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611678762482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new file">
+      <created>1611679173767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611679173767</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new file">
+      <created>1611679231075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611679231075</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +132,8 @@
     <MESSAGE value="r2" />
     <MESSAGE value="r3" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1508" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611676538059">
@@ -130,9 +148,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1692" y="139" width="1461" height="770" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611676540151" />
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611678764836">
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611679233573">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611678764836" />
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611679233573" />
   </component>
 </project>

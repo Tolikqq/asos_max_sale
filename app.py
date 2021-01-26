@@ -1,15 +1,6 @@
 from flask import Flask, render_template, request
 from parse import parse_asos
-# from flask_env import MetaFlaskEnv
-import requests
 
-#
-#
-# class Configuration(metaclass=MetaFlaskEnv):
-#     DEBUG = False
-#     PORT = 5000
-#     BOT_TOKEN = ''
-#     SENTRY_DSN = None
 app = Flask(__name__)
 
 @app.route("/")
@@ -25,5 +16,5 @@ def shops():
     return render_template('index.html', lists=lists)
 
 
-# if __name__ == "__main__":
-#     app.run(debug=True, port=33507)
+if __name__ == "__main__":
+    app.run()
