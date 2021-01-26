@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="default2">
+    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="verify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +55,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\djschool\asos-bs\asos_sale\src" />
+      <recent name="C:\djschool\asos-bs\asos_sale\templates" />
       <recent name="C:\djschool\asos-bs\asos_sale" />
+      <recent name="C:\djschool\asos-bs\asos_sale\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -127,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611681263403</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="verify">
+      <created>1611681754516</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681754516</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +162,8 @@
     <MESSAGE value="default" />
     <MESSAGE value="test" />
     <MESSAGE value="default2" />
-    <option name="LAST_COMMIT_MESSAGE" value="default2" />
+    <MESSAGE value="verify" />
+    <option name="LAST_COMMIT_MESSAGE" value="verify" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1508" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611676538059">
@@ -165,9 +178,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1692" y="139" width="1461" height="770" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611676540151" />
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611681268018">
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611681756241">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611681268018" />
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611681756241" />
   </component>
 </project>
