@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return render_template('main.html')
+    return render_template('example.html')
 
 @app.route("/shops", methods=['GET', 'POST'])
 def shops():
@@ -24,12 +24,6 @@ def shops():
         lists = parse_asos(url)
     return render_template('index.html', lists=lists)
 
-@app.route("/about")
-def about():
-    return "<h1>О нас</h1>"
-
-def before_request():
-    return render_template('loading.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
