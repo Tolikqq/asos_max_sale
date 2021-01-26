@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-
 def parse_asos(url):
     nextPage = True
     new_news = []
