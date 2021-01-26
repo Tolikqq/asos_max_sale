@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="test">
+    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="default2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611680814699</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="default2">
+      <created>1611681263403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681263403</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +149,8 @@
     <MESSAGE value="new file" />
     <MESSAGE value="default" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="default2" />
+    <option name="LAST_COMMIT_MESSAGE" value="default2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1508" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611676538059">
@@ -157,9 +165,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1692" y="139" width="1461" height="770" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611676540151" />
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611680816686">
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611681268018">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611680816686" />
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611681268018" />
   </component>
 </project>
