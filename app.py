@@ -13,7 +13,6 @@ def shops():
     if request.method == 'POST':
         url = request.form['url']
         lists = parse_asos(url)
-        lists = [{'name': 'Зеленая курткаб.', 'url': 'https://www.asos.com/ru/elle', 'price': 4790.0, 'price_sale': 3190.0, 'sale': -33}]
     return render_template('index.html', lists=lists)
 
 
