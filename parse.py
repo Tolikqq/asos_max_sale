@@ -17,9 +17,9 @@ def parse_asos(url):
                     price = news[i].find('span', {'class': '_16nzq18'}).text
                     price_sale = news[i].find('span', {'class': '_22sbBtS'}).text
 
-                    price = float(price.replace('руб.', '').replace(',', '.').replace(' ', '').replace('От', ''))
+                    price = float(price.replace('руб.', '').replace(',', '.').replace(' ', ''))
                     price_sale = float(
-                        price_sale.replace('руб.', '').replace(',', '.').replace(' ', '').replace('От', ''))
+                        price_sale.replace('руб.', '').replace(',', '.').replace(' ', ''))
 
                     dictionary = {
                         'name': news[i].text,
@@ -30,6 +30,7 @@ def parse_asos(url):
                     }
                     new_news.append(dictionary)
                 except:
+                    print("mistake")
                     continue
         if soup.find(rel="next") is not None:
             url = str(soup.find(rel="next").get('href'))

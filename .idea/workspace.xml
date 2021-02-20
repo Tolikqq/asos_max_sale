@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="verify">
+    <list default="true" id="3ecbc290-dbba-4ff5-8f61-d54d848da6b1" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611681754516</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="nav">
+      <created>1611683624937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611683624937</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <created>1611684023308</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611684023308</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +162,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor for heroku" />
@@ -160,10 +171,11 @@
     <MESSAGE value="2" />
     <MESSAGE value="new file" />
     <MESSAGE value="default" />
-    <MESSAGE value="test" />
     <MESSAGE value="default2" />
     <MESSAGE value="verify" />
-    <option name="LAST_COMMIT_MESSAGE" value="verify" />
+    <MESSAGE value="nav" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1508" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611676538059">
@@ -178,9 +190,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1692" y="139" width="1461" height="770" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611676540151" />
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611681756241">
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2" timestamp="1611684037688">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611681756241" />
+    <state x="-1370" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611684037688" />
   </component>
 </project>
